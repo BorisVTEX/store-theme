@@ -1,6 +1,6 @@
 {
-  "vendor": "vtex",
-  "name": "store-theme",
+  "vendor": "boris",
+  "name": "caudalie-store-theme",
   "version": "5.0.0",
   "builders": {
     "styles": "2.x",

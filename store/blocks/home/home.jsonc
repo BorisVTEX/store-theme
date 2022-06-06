@@ -21,12 +21,12 @@
       "height": 720,
       "images": [
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner-principal.png",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "image": "https://caudalie-europe.imgix.net/media/wysiwyg/campaigns/vinoperfect-2022/new/top-banner-en-destop.jpg",
+          "mobileImage": "https://caudalie-europe.imgix.net/media/wysiwyg/campaigns/vinoperfect-2022/new/top-banner-en-destop.jpg"
         },
         {
-          "image": "https://storecomponents.vteximg.com.br/arquivos/banner.jpg",
-          "mobileImage": "https://storecomponents.vteximg.com.br/arquivos/banner-principal-mobile.jpg"
+          "image": "https://caudalie-europe.imgix.net/media/wysiwyg/spotlight_5_.jpg",
+          "mobileImage": "https://caudalie-europe.imgix.net/media/wysiwyg/spotlight_5_.jpg"
         }
       ]
     }
